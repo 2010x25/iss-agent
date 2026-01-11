@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```bash
 adk web
 ```
-<img src="adk-web.PNG">
+<img src="https://github.com/2010x25/iss-agent/blob/main/iss-location/adk-web.png">
 
 ## 📡 ISS REST API
 
@@ -69,3 +69,4 @@ You can extend this MCP server by adding more tools, resources, or prompts using
 ## 📄 License
 
 Open-source. Free to use and modify.
+
